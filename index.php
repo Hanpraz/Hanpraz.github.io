@@ -1,0 +1,568 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>PЯΛZ</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="icon" href="img/icon.png">
+        <!-- Place favicon.ico in the root directory -->
+		
+		<!-- Google Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Fira+Sans:300i,400,400i,500,600,700,800,900" rel="stylesheet">
+
+		
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/slicknav.min.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="css/animate.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+		<!-- Sufia CSS -->
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+    </head>
+    <body>
+	
+		<div id="social">
+			<div class="social-inner">
+				<ul>
+					<li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+					<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+				</ul>
+			</div>
+		
+		</div>
+	  
+		<!-- Header Area -->
+		<header id="header" >
+		
+			<!-- Header Inner -->
+			<div class="header-inner">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 col-sm-2 col-xs-2">
+							<div class="logo">
+								<a href="#"><h3 style="color: white;">PЯΛZ</h3></a>
+							</div>
+						</div>
+						<div class="col-md-9 col-sm-10">
+							<div class="mobile-menu"></div>
+							<nav class="navbar navbar-default">
+								<div class="collapse navbar-collapse">
+									<ul id="nav" class="nav navbar-nav">
+										<li class="current"><a href="#slider">WELCOME</a></li>
+										<li><a href="#about">ABOUT ME</a></li>
+										<li><a href="#service">my EXPERIENCE</a></li>
+										<li><a href="#skill">skill</a></li>
+										<li><a href="#story">EDUCATION</a></li>
+										<li><a href="#latest-works">PORTFOLIO</a> 
+										</li>
+										<li><a href="#contact">CONTACT</a></li>
+									</ul>
+								</div> 
+								
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--/ End Header Inner -->
+		</header>
+		<!-- End Header Area -->
+		
+		<!-- Slider Area -->
+		<section id="slider">
+				<div class="single-slider" style="background-image:url('img/slider6.svg')">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-7 col-sm-12 col-xs-12">
+								<div class="text">
+									<h1>Hi,my name is Prastya</h1>
+									<p>Saya adalah mahasiswa Teknik Elektronika Politeknik Negeri Balikpapan, Ini adalah website portofolio dan cv yang saya buat untuk keperluan tugas Desain Web</p>
+									
+									<div class="button">
+										<a href="#" class="btn primary "><i class="fa fa-envelope"></i>Email</a>
+										<a href="#" class="btn"><i class="fa fa-phone"></i>Contact me</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+		</section>
+		<!--/ End Slider Area -->
+		
+		<!-- Start about -->
+		<section id="about" >
+			<div class="container">
+				<div class="row">
+					<div class="col-md-2 col-sm-12">
+						<div class="section-title">
+							<h2>about <span>me</span></h2>
+						</div>
+					</div>
+					<div class="about-content">
+						<div class="col-md-6 col-sm-6 col-xs-12">
+							<div class="single-about">
+								<p class="bolt">Halo!, saya Muhammad Ramadhan Prastya, saya seorang mahasiswa yang masih kuliah di Politeknik Negeri Balikpapan.</p>
+								<p>Visi saya berkuliah di teknik elektronika agar ilmu yang saya peroleh selama kuliah dapat dibagi atau dibagikan berkembang menjadi sesuatu yang bermanfaat bagi diri saya sendiri dan banyak orang. Motivasi saya kuliah adalah untuk mempelajari hal-hal yang berkaitan dengan keterampilan dan pengetahuan baru untuk meningkatkan kualitas dan keterampilan yang ada, sehingga saya dapat meningkatkan peluang saya untuk bekerja di perusahaan besar di Indonesia dan dunia, di mana saya sangat tertarik dengan dunia digital saat ini, saya Saya sangat tertarik untuk memanfaatkan teknologi dan arus era digital untuk menciptakan sesuatu yang dapat bermanfaat bagi banyak orang.</p>
+								<p class="bolt">"Minat saya terhadap dunia kerja sangat tinggi, begitu juga dengan minat saya untuk terus belajar tentang hal-hal baru dan pengetahuan yang berguna untuk karir saya setelah saya lulus kuliah”.</p>
+								<div class="cv">
+									<a href="#">download cv</a>
+								</div>
+								<div class="social">
+									<ul>
+										<li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+										<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+										<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="image">
+								<img src="img/about.jpg" alt="#">
+								<a href="https://www.youtube.com/watch?v=sVGJcJVy73U" class="video video-popup mfp-iframe"><i class="fa fa-play"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--/ End about -->	
+		
+		
+		
+		<!-- Start service -->
+		<section id="service" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-sm-12 col-xs-12">
+						<div class="section-title">
+							<h2>my <span>EXPERIENCE</span></h2>
+						</div> 
+					</div>
+					<div class="col-md-8 col-sm-12 col-xs-12">
+						<div class="row">
+							<div class="col-md-6 col-sm-6 col-xs-12">
+								<div class="single-service wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
+									<i class="fa fa-laptop"></i>
+									<h5>IT Support Engineer</h5>
+									<p>PT. Comtelindo Balikpapan, 01/2021 - 03/2021</p>
+								</div>
+								<div class="single-service wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.8s">
+									<i class="fa fa-camera"></i>
+									<h5>Photography</h5>
+									<p>Freelance Fotografi, 01/2020 - 10/2021</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-sm-6 col-xs-12">
+								<div class="single-service wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">
+									<i class="fa fa-pencil"></i>
+									<h5>Freelance Design Grafis</h5>
+									<p>Info Media Desain, 01/2020 - 06/2021</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--/ End service -->	
+		
+		
+		<!-- Start skill -->
+		<section id="skill" class="skill" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-2 col-sm-12 col-xs-12">
+						<div class="section-title">
+							<h2>my <span>skill</span></h2>
+						</div>
+					</div>
+					<div class="col-md-10 col-sm-12 col-xs-12">
+					
+						<div class="skill-head">
+							<div class="row">
+								<div class="col-md-6 col-sm-12 col-xs-12">
+									<div class="skill-content">
+										<h3>APA YANG PERLU ANDA KETAHUI</h3>
+										<p class="bolt">Hallo, Saya Prastya seorang mahasiswa di kampus Politeknik Negeri Balikpapan</p>
+										<p>Saya cukup menguasai skill di bidang perancangan dan pengelolaan sebuah jaringan internet mengunakan perangkat-perangkat seperti cisco dan mikrotik di mana sayapun juga telah memiliki beberapa sertifikasi terkait perangkat cisco maupun mikrotik,</p>
+										<p class="bolt">"Saya pun juga memiliki beberapa skill lainya terutama pada bidang ilustrasi, fotografi dan videografi yang merupakan salah satu dari hobi saya".</p>
+									</div>
+								</div>
+								<div class="col-md-6 col-sm-12 col-xs-12">
+									<div class="skill-main">
+										<div class="single-skill">
+											<div class="skill-title">
+												<h4>Mikrotik</h4>
+											</div>
+											<div class="progress two">
+												<div class="progress-bar" data-percent="80">
+													<span>80%</span>
+												</div>
+											</div>
+										</div>
+										<div class="single-skill">
+											<div class="skill-title">
+												<h4>Cisco</h4>
+											</div>
+											<div class="progress two">
+												<div class="progress-bar" data-percent="80">
+													<span>80%</span>
+												</div>
+											</div>
+										</div>
+										<div class="single-skill">
+											<div class="skill-title">
+												<h4>PHOTOSHOP</h4>
+											</div>
+											<div class="progress two">
+												<div class="progress-bar" data-percent="80">
+													<span>80%</span>
+												</div>
+											</div>
+										</div>
+										<div class="single-skill">
+											<div class="skill-title">
+												<h4>ILUSTRATOR</h4>
+											</div>
+											<div class="progress two">
+												<div class="progress-bar" data-percent="90">
+													<span>90%</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--/ End skill -->	
+		
+		
+		
+		
+		
+		
+		<!-- Start story -->
+		<section id="story" class="story" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 col-sm-4 col-xs-12">
+						<div class="section-title">
+							<h2>my<span>EDUCATION</span></h2>
+						</div>
+					</div>
+					<div class=" col-md-9 col-sm-4 col-xs-12">
+						<div class="story-content">
+							<div class="single-story">
+								<span class="year wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">2009</span>
+								<div class="inner-content wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
+									<h3>PENDIDIKAN</h3>
+									<p>SDN 009 BALIKPAPAN UTARA</p>
+									<p class="p2">Indonesia, 2009 - 2015</p>
+								</div>
+							</div>
+							<div class="single-story">
+								<span class="year wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">2015</span>
+								<div class="inner-content wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
+									<h3>PENDIDIKAN</h3>
+									<p>SMP NEGERI 15 BALIKPAPAN</p>
+									<p class="p2">Indonesia, 2015 - 2018</p>
+								</div>
+							</div>
+							<div class="single-story">
+								<span class="year wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.8s">2018</span>
+								<div class="inner-content wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.8s">
+									<h3>PENDIDIKAN</h3>
+									<p>SMK NEGERI 6 BALIKPAPAN</p>
+									<p class="p2">Indonesia, 2018 - 2021</p>
+								</div>
+							</div>
+							<div class="single-story">
+								<span class="year wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="1s">2021</span>
+								<div class="inner-content wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="1s">
+									<h3>PENDIDIKAN</h3>
+									<p>POLITEKNIK NEGERI BALIKPAPAN</p>
+									<p class="p2">Indonesia, 2021 - Sekarang</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--/ End story -->	
+		
+		
+		
+		
+		
+		
+	
+		
+		
+	<!-- Latest Works -->
+		<section id="latest-works" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-sm-4 col-xs-12">
+						<div class="section-title">
+							<h2>MY<span>PORTFOLIO</span></h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<!-- Project Nav -->
+						<div class="works-menu wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
+							<ul>
+								<li class="active" data-filter="*"><i class="fa fa-tasks"></i>All Works</li>
+								<li data-filter=".branding"><i class="fa fa-camera"></i>Photography</li>
+							</ul>
+						</div>
+						<!--/ End Project Nav -->
+					</div>
+				</div>
+				<div class="row">
+					<div class="isotop-active">
+						<div class="col-md-4 col-sm-4 col-xs-12 branding">
+							<div class="single-work">
+								<img src="img/foto1.jpg" alt="#">
+								
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 col-xs-12 branding">
+							<div class="single-work">
+								<img src="img/foto2.jpg" alt="">
+								
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 col-xs-12 branding">
+							<div class="single-work">
+								<img src="img/foto3.jpg" alt="">
+								
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 col-xs-12 branding">
+							<div class="single-work">
+								<img src="img/foto4.jpg" alt="">
+								
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 col-xs-12  branding">
+							<div class="single-work">
+								<img src="img/foto5.jpg" alt="">
+								
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 col-xs-12  branding">
+							<div class="single-work">
+								<img src="img/foto6.jpg" alt="">
+								
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 col-xs-12 branding">
+							<div class="single-work">
+								<img src="img/foto7.jpg" alt="">
+								
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 col-xs-12 branding">
+							<div class="single-work">
+								<img src="img/foto8.jpg" alt="">
+								
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 col-xs-12 branding">
+							<div class="single-work">
+								<img src="img/foto9.jpg" alt="">
+					
+								<div class="works-hover">
+									<a href="pf-2colum.html"><h4>Photography</h4></a>
+									<div class="link"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--/ End Works -->
+		
+		
+		<!-- Newslatter -->
+		<section id="newslatter" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.5s">
+						<div class="news-text">
+							<h4>don't miss out</h4>
+							<h2>sign up for updates</h2>
+							<p>Get all latest news and our exclusive content straight to your email inbox</p>
+						</div>
+					</div>
+					<div class="col-md-12 col-sm-12 col-xs-12 wow shake" data-wow-duration="0.8s" data-wow-delay="0.5s">
+						<div class="form">
+							<input type="email" placeholder="Enter your email">
+							<button type="text" value="send">Signup</button>
+						</div>
+					</div>
+						
+					
+				</div>
+			</div>
+		</section>
+		<!--/ End Newslatter -->
+	
+		
+		<section id="contact" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="section-title">
+							<h2>Contact <span>Me</span></h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+						<div class="col-md-4 col-sm-12 col-xs-12">
+							<div class="contact-info">
+								<h4>Contact info</h4>
+								<p>Berikut adalah beberapa informasi tentang saya silahkan hubungi dan kirimkan pesan jika ada yang ingin di tanyakan tentang saya.</p>
+								<p>Email dan pesan yang masuk akan di balas secepatnya saat jam kerja terimakasih.</p>
+								<span><i class="fa fa-phone-square"></i>+6281649611399</span>
+								<span><i class="fa fa-map-marker"></i>Jl. Soekarno-hatta no. 153 Rt. 68</span>
+								<span><i class="fa fa-envelope"></i><a href="#">muhammadramadhanprastya@gmail.com</a></span>
+								<span><i class="fa fa-globe"></i><a href="#">www.hanpraz.com</a></span>
+							
+							</div>
+						
+						</div>
+						<div class="col-md-8 col-sm-12 col-xs-12 ">
+							<div class="form-head">
+								<form class="form" action="#">
+								
+									<div class="row">
+											<div class="form-group">
+												<input name="name" type="text" placeholder="enter name">
+											</div>
+											<div class="form-group">
+												<input name="email" type="email" placeholder="enter email">
+											</div>
+											<div class="form-group">
+												<textarea name="message" placeholder="enter message"></textarea>
+											</div>
+									</div>
+									
+									
+									<div class="form-group">
+										<div class="button">
+											<button type="submit" class="btn primary">Submit</button>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+						
+				</div>
+			</div>
+		</section>
+		
+		<footer id="footer" class="section">
+			<div class="footer-top">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="logo">
+								<a href="#"><h3 style="color: white;">PЯΛZ</h3></a>
+							</div>
+							<!-- Social -->
+							<ul class="social">
+								<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+								<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+								<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
+								<li><a href="#"><span class="fa fa-instagram"></span></a></li>
+								<li><a href="#"><span class="fa fa-pinterest-p"></span></a></li>
+							</ul>
+							<!-- End Social -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="copyright">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<p>© Copyright 2022 <a href="https://www.hanpraz.com" rel="nofollow" target="_blank">hanpraz.com</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		
+		
+        <script src="js/jquery.min.js">  </script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.nav.js"></script>
+        <script src="js/jquery.slicknav.min.js"></script>
+		<script src="js/jquery-appear.js"></script>
+        <script src="js/jquery.scrollUp.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+		<script src="js/jquery.counterup.min.js"></script>
+		<script src="js/isotope.pkgd.min.js"></script>
+		<script src="js/wow.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyC0RqLa90WDfoJedoE3Z_Gy7a7o8PCL2jw"></script>
+        <script type="text/javascript" src="js/gmaps.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
